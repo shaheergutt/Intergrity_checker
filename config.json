@@ -1,0 +1,6 @@
+{
+    "monitored_directory": "D:\\integrity_checker\\monitored_files",
+    "algorithm": "sha256",
+    "use_hmac": true,
+    "hmac_key": "thisismykey"
+}

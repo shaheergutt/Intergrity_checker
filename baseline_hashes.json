@@ -1,0 +1,21 @@
+{
+    "monitored_directory": "D:\\integrity_checker\\monitored_files",
+    "algorithm": "sha256",
+    "timestamp": "2026-06-09T14:02:48.320240",
+    "hmac_enabled": true,
+    "files": {
+        "cryptography_intro.txt": {
+            "hash": "028fe3d925b5774cdc7d4227254ec44870d002233f96e49edbedb193c75ce2c2",
+            "size": 989,
+            "mtime": 1780237501.747724,
+            "readable_mtime": "2026-05-31 19:25:01"
+        },
+        "security_policy.txt": {
+            "hash": "e0fb5cda9fc0c29e7ca683415574f5520df3dde502c6238ce75f4c9fbbe393cb",
+            "size": 336,
+            "mtime": 1780237511.9513454,
+            "readable_mtime": "2026-05-31 19:25:11"
+        }
+    },
+    "signature": "ae68ad1c0906559fe5634110da8877fee5377d7a9302131c8b2df9d8df10fd2f"
+}
